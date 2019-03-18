@@ -1,0 +1,2 @@
+This is a collection of home assignments written in Python.
+The assignments are based around important programming elements and therefore contain function specifications, comments, test functions, error handling, etc.
